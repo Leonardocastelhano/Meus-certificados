@@ -1,2 +1,2 @@
 # Meus certificados
- Meus certificados na área de tecnologia 
+ Meus **certificados** na área de *tecnologia* 
